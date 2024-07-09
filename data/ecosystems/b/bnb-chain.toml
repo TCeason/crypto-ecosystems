@@ -1,18 +1,24 @@
 # Ecosystem Level Information
-title = "BNB Chain (BSC)"
+title = "BNB Chain"
 
 sub_ecosystems = [
+  "0x",
   "1000Blocks Space",
   "1inch",
+  "4EVERLAND",
   "5Degrees Protocol",
   "Aboard Exchange",
   "Aboat Entertainment",
+  "Ace Tech Staking",
   "ACryptoS",
   "ACY Finance",
   "adaotop",
+  "AFKDAO",
   "Air Protocol",
+  "AirCash",
   "AirCoin",
   "Aleph.im",
+  "AlienSwap",
   "Alita Finance",
   "Alium Finance",
   "Allbridge",
@@ -20,6 +26,10 @@ sub_ecosystems = [
   "Alpaca Finance",
   "Alpha Finance Lab",
   "Alpha Homora",
+  "Altitude DeFi",
+  "AmpleSwap",
+  "Angle Protocol",
+  "Ankr",
   "Annex Finance",
   "Antimatter Dao",
   "Aori",
@@ -29,6 +39,7 @@ sub_ecosystems = [
   "API3",
   "Aquachain",
   "Arche Network",
+  "Ariva World",
   "Arken Finance",
   "ARPA",
   "astronaut penguin",
@@ -37,6 +48,7 @@ sub_ecosystems = [
   "AutoShark.Finance",
   "Axelar Network",
   "Baby Doge Coin",
+  "BabySwap",
   "Badger DAO",
   "BakeryToken",
   "BaksDAO",
@@ -72,13 +84,18 @@ sub_ecosystems = [
   "Bunicorn",
   "BunnyToken",
   "Burger Swap",
+  "Burve Protocol",
   "CafeSwap",
   "Cake Monster",
+  "CARV Protocol",
   "Cashaa",
+  "Catcoin",
   "Celer Network cBridge",
   "Cerby Finance",
   "Chain Guardians",
+  "Chain of Legends",
   "Chainge Finance",
+  "ChainGPT",
   "Chainlink",
   "Channels finance",
   "chat puppy",
@@ -86,6 +103,7 @@ sub_ecosystems = [
   "Chimpy Swap",
   "chocomintapp",
   "Citizen Finance",
+  "CodexField",
   "Coinracer",
   "CoinSwap",
   "Colony",
@@ -96,6 +114,7 @@ sub_ecosystems = [
   "Cougar Swap",
   "Cowswap Finance",
   "Cream Finance",
+  "CreateMyToken",
   "Crosswise Finance",
   "Crow Finance",
   "Cryption Network",
@@ -103,6 +122,7 @@ sub_ecosystems = [
   "CryptoBlades",
   "Cryptofeed",
   "Cub Finance",
+  "CUBE",
   "Curve",
   "Cyberconnect",
   "czodiac",
@@ -148,9 +168,11 @@ sub_ecosystems = [
   "Elpis Games",
   "ENVELOP (NIFTSY)",
   "Everest Protocol",
+  "EverRise",
   "Eyeseek",
   "EYWA Protocol",
   "ezo network",
+  "f(x) Protocol",
   "FaraLand",
   "Feeder Finance",
   "Fexon Finance",
@@ -166,10 +188,12 @@ sub_ecosystems = [
   "Foxlottery",
   "Frax",
   "Freename",
+  "Friend3",
   "FstSwap",
   "Fulcrum",
   "Fusionist",
   "Gafi Network",
+  "Galaxy Exchange",
   "Galxe",
   "Ghost Market",
   "GMX",
@@ -183,6 +207,7 @@ sub_ecosystems = [
   "Hashstack",
   "Hectagon Finance",
   "Helio Money",
+  "Heroes & Empires",
   "HeroFi",
   "Histopia",
   "hodlverse",
@@ -213,9 +238,11 @@ sub_ecosystems = [
   "Kine Finance",
   "Kine Protocol",
   "Kirobo",
+  "KnightSwap",
   "Kredeum",
   "Kryptolite",
   "Kryptomon",
+  "KTX.Finance",
   "Kyber Network",
   "Kyoko Finance",
   "Kyte Research",
@@ -239,10 +266,12 @@ sub_ecosystems = [
   "Marketmaking.PRO",
   "Marketplace of the Multiverse",
   "Mars Ecosystem Token",
+  "Masa Finance",
   "Mayan Finance",
   "MCDEX",
   "Mdex",
   "Meld",
+  "Meson",
   "meta gaming guild",
   "Metagalaxy Land",
   "Metaversepro Protocol",
@@ -272,7 +301,10 @@ sub_ecosystems = [
   "NFTrade",
   "NFTRainbow",
   "nifty protocol",
+  "Nimble Network",
+  "Nine Chronicles",
   "NodeReal",
+  "Nominex",
   "O3 Swap",
   "OceanPerl",
   "ocp-finance",
@@ -280,6 +312,7 @@ sub_ecosystems = [
   "Oddz",
   "Odin Protocol",
   "Olive Cash",
+  "OmniBTC",
   "opBNB",
   "Open World Vision",
   "OpenLeverage",
@@ -293,6 +326,7 @@ sub_ecosystems = [
   "Orochi Network",
   "OuterbridgeIO",
   "Overnight",
+  "Owlto Finance",
   "Pacoca",
   "Pancake Hunny",
   "PancakeBunny Finance",
@@ -304,7 +338,9 @@ sub_ecosystems = [
   "Paralink Network",
   "Paraswap",
   "PARSIQ",
+  "Particle Network",
   "PDC Finance",
+  "Pell Network",
   "Pendle",
   "Pimlico",
   "PineCone Finance",
@@ -319,6 +355,8 @@ sub_ecosystems = [
   "PolkaBridge",
   "PolyDragon",
   "PoolTogether",
+  "Poolz",
+  "Poolz Finance",
   "PopcornDAO",
   "Popsicle Finance",
   "Portals Xperience",
@@ -354,6 +392,7 @@ sub_ecosystems = [
   "Safe Ecosystem",
   "Sailboat Labs",
   "Scientix",
+  "Script Network",
   "SCV.Finance",
   "Seascape Network",
   "Second Live",
@@ -364,6 +403,7 @@ sub_ecosystems = [
   "Singular Farm",
   "Solana Farm",
   "Solv Protocol",
+  "SoQuest",
   "soteria",
   "Source Protocol",
   "Space-ID (SID)",
@@ -376,6 +416,7 @@ sub_ecosystems = [
   "Stafi",
   "Stafi Protocol",
   "Stargate",
+  "StarryNift",
   "Steadefi",
   "SteakBank Finance",
   "StoneDefi",
@@ -390,6 +431,7 @@ sub_ecosystems = [
   "Synapse Protocol",
   "SynFutures",
   "Tangle",
+  "Tap Fantasy",
   "Team Finance",
   "teaswap",
   "TemplarDAO",
@@ -402,6 +444,7 @@ sub_ecosystems = [
   "the s33d project",
   "THORChain",
   "Titano Finance",
+  "tofuNFT",
   "token negotiator",
   "Tokensfarm",
   "Tornado Cash",
@@ -414,6 +457,7 @@ sub_ecosystems = [
   "TreasureLand",
   "TreeDefi",
   "Trust Domains",
+  "Trust Wallet",
   "Tutellus",
   "Umbrella Network",
   "Unifi Protocol",
@@ -421,6 +465,7 @@ sub_ecosystems = [
   "uniscam",
   "Uniswap",
   "UpFire",
+  "UXUY",
   "Value DeFi",
   "ValueDefi",
   "Venly",
@@ -428,6 +473,7 @@ sub_ecosystems = [
   "Verified Chain",
   "VertekFi",
   "Vlad Finance",
+  "Vooi",
   "Vortex Defi",
   "WardenSwap",
   "Wasabix",
@@ -442,6 +488,7 @@ sub_ecosystems = [
   "Wombex Finance",
   "WOO Network",
   "WorkQuest",
+  "World of Dypians",
   "World Swap",
   "Wormhole",
   "XDAO",
@@ -450,8 +497,12 @@ sub_ecosystems = [
   "XY Finance",
   "YAY Games",
   "YSL.IO",
+  "Yuliverse",
   "zkBob",
+  "zkLink Protocol",
+  "zkPass",
   "Zunami Protocol",
+  "Zypher Games",
 ]
 
 github_organizations = [
@@ -2167,6 +2218,9 @@ url = "https://github.com/aggarwalbhavin/POAP_KYC_BABT"
 url = "https://github.com/aggarwalbhavin/Staking"
 
 [[repo]]
+url = "https://github.com/Aggregata-xyz/aggregata"
+
+[[repo]]
 url = "https://github.com/agiledefi/agile-farm"
 
 [[repo]]
@@ -3867,6 +3921,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/apoorvlathey/evm-rpcs-list"
+
+[[repo]]
+url = "https://github.com/app-coinlivechat/xraders-public"
 
 [[repo]]
 url = "https://github.com/appbf/bf_order_api"
@@ -9590,6 +9647,9 @@ url = "https://github.com/CoffeeFam84/donkeyswap-casino-contract"
 url = "https://github.com/Cogent-Crypto/staking-xnft"
 
 [[repo]]
+url = "https://github.com/COGI-Technology/cogi_contracts"
+
+[[repo]]
 url = "https://github.com/Coin-Collect/coincollect-frontend"
 
 [[repo]]
@@ -12223,6 +12283,9 @@ url = "https://github.com/DeFiMark/Glacier"
 url = "https://github.com/defimist/defi-hacks-reproduce"
 
 [[repo]]
+url = "https://github.com/DEFINATION-PTE-LTD/ageoftanks"
+
+[[repo]]
 url = "https://github.com/DeFinderDao/DefinderWeb"
 
 [[repo]]
@@ -13388,6 +13451,9 @@ url = "https://github.com/DLV111/TheAnimalFarmAutomation"
 
 [[repo]]
 url = "https://github.com/dmackenz/Binance-Asset-Manager"
+
+[[repo]]
+url = "https://github.com/dmailofficial/dmail"
 
 [[repo]]
 url = "https://github.com/dmb-dev87/ejs-web3_vfat-tools"
@@ -14876,6 +14942,9 @@ url = "https://github.com/Energy8Token/vfat-tools"
 
 [[repo]]
 url = "https://github.com/engcfraposo/nestjs-binance-api"
+
+[[repo]]
+url = "https://github.com/Engines-of-Fury/contract"
 
 [[repo]]
 url = "https://github.com/engram-network/engram-interface"
@@ -20327,6 +20396,9 @@ url = "https://github.com/inblockio/metamask-extension"
 url = "https://github.com/incentivus/NFT"
 
 [[repo]]
+url = "https://github.com/inceptionlrt/smart-contracts"
+
+[[repo]]
 url = "https://github.com/includeleec/tx-builder"
 
 [[repo]]
@@ -23942,6 +24014,9 @@ url = "https://github.com/LawsonGraham/paper-trail"
 
 [[repo]]
 url = "https://github.com/layer-3/clearsync"
+
+[[repo]]
+url = "https://github.com/layerswap/layerswapapp"
 
 [[repo]]
 url = "https://github.com/layerx-labs/webnetwork"
@@ -40027,6 +40102,9 @@ url = "https://github.com/terencelimzhengwei/vfat-tools"
 url = "https://github.com/Ternio/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/TerraMetas/metaverser"
+
+[[repo]]
 url = "https://github.com/terricom/MyWeth"
 
 [[repo]]
@@ -45503,3 +45581,4 @@ url = "https://github.com/zzzuhaibmohd/DeFiHackLabs"
 
 [[repo]]
 url = "https://github.com/zzzzls/WTFSolidity"
+
